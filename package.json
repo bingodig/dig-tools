@@ -1,0 +1,23 @@
+{
+  "name": "dig-tools",
+  "version": "0.0.1",
+  "description": "tools for dig",
+  "main": "bin/dig-tools.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bingo Dig",
+  "keywords": [
+    "boilerplate",
+    "es6",
+    "web app"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bingodig/dig-tools"
+  },
+  "bugs": {
+    "url": "https://github.com/bingodig/dig-tools/issues"
+  }
+}
