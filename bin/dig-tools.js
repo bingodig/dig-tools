@@ -1,2 +1,2 @@
 
-	require('../lib/tools');
+	require('../lib/tools.js');
