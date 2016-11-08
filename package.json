@@ -1,8 +1,8 @@
 {
   "name": "dig-tools",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "tools for dig",
-  "main": "bin/dig-tools.js",
+  "main": "lib/tools.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
